@@ -17,3 +17,11 @@ Bhattacharya N., Mondal S., Khatua S. (2019) A MapReduce-Based Association Rule 
 https://doi.org/10.1007/978-981-13-7082-3_61 
 
 
+
+# Implication of Statistical Methods on Patient Data: An Approach for Cancer Survivability Prediction
+
+## Cite this paper as:
+Mondal S., Bhattacharya N., Das T., Ghosh Z., Khatua S. (2021) Implication of Statistical Methods on Patient Data: An Approach for Cancer Survivability Prediction. In: Bhatia S., Dubey A.K., Chhikara R., Chaudhary P., Kumar A. (eds) Intelligent Healthcare. EAI/Springer Innovations in Communication and Computing. Springer, Cham. 
+
+## DOI: 
+https://doi.org/10.1007/978-3-030-67051-1_4
